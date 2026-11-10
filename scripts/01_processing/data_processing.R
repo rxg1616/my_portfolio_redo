@@ -1,4 +1,3 @@
-
 # ============================================================
 # Garmin Dive Data - Data Wrangling
 # ============================================================
@@ -53,3 +52,4 @@ write_csv(
   cleaned_dive_data,
   "cleaned_garmin_dives.csv"
 )
+
